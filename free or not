@@ -1,0 +1,14 @@
+#include <iostream>
+using namespace std;
+
+int main() {
+        int age;
+        cin >> age;
+       if (age<=6){
+               cout<<"free"<<endl;}
+else if (age>6){
+        cout<< ""<<endl;}
+        // your code goes here
+        
+	return 0;
+}
